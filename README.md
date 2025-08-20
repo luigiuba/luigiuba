@@ -51,8 +51,8 @@ Sou **Luigi Baezo**, estudante apaixonado por tecnologia, ciência de dados e in
 
 ## ⚡ GitHub Stats
 
-![Luigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luigiuba&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiuba&layout=compact&theme=radical)
+![Luigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luigiuba&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiuba&layout=compact&theme=radical)
+
 
 ---
 
