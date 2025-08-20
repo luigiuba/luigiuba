@@ -1,44 +1,59 @@
-<h1 align="center">Fala Devs!, eu sou o Luigi! 👋</h1>
+<h1 align="center">Fala Devs! 👋 Eu sou o Luigi Baezo</h1>
 
 <p align="center">
-  Bem-vindo ao meu cantinho no GitHub — explore meus projetos, estatísticas 📝 e curiosidades 😉
+  🚀 Estudante de tecnologia apaixonado por ciência de dados, inovação e o mundo dos games!
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/SQL-Database-lightgrey?logo=mysql&logoColor=blue" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/GitHub-Stats-orange?logo=github&logoColor=white" alt="GitHub Stats Badge"/>
   <img src="https://img.shields.io/badge/Alura-Student-red" alt="Alura Badge"/>
 </p>
 
 ---
 
-###  Sobre mim
--  Entusiasta em IAS, Cloud e Ciencia de dados
--  Desenvolvedor de pequenos projetos pessoais para aprendizados
--  Sempre curioso, sempre aprendendo
+## 👨‍💻 Apresentação
+Olá devs, sou **Luigi Baezo**, um estudante de tecnologia **entusiasta na área de ciência de dados e inovação**.  
+Atualmente estou me **graduando em Gestão de Tecnologia da Informação pelo Senac** e faço formações na **Alura**, com foco em **Análise de Dados, Ciência de Dados, Machine Learning e Inteligência Artificial**.  
 
-###  Ferramentas & Tecnologias
-- Linguagens: **Python**, **JavaScript**
-- Ferramentas: **Pandas**, **Streamlit**, **Flask**
-- Outras: automação, bot dev, análises simples
-
-###  Estatísticas do GitHub  
-<!-- GitHub Stats Card -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigiuba&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+Estou em **busca de um estágio em TI**, para aprender conceitos do dia a dia, aplicar na prática meu aprendizado e evoluir cada vez mais na área.
 
 ---
 
-###  Meus destaques recentes
-- Projeto **IMERS-O-ALURA** — dashboard interativo com dados da Alura
----
-
-###  Contato
--  luigiuba@example.com
--  Email: [@luigiuba](luigibaezo@gmail.com)
--  LinkedIn: [Luigi Baezo](https://linkedin.com/in/luigi-baezo-147260273)
+## 🛠️ Tecnologias & Habilidades
+- Linguagens: **Python**, **JavaScript**, **SQL**  
+- Bibliotecas e ferramentas: **Pandas**, **Matplotlib**, **Plotly**, **Streamlit**, **Flask**  
+- Metodologias: **Ágeis (Scrum/Kanban)**  
+- Outras áreas: automação, análise de dados, criação de dashboards, bots  
 
 ---
 
-####  Um fato curioso
-> “Desde cedo apaixonado por jogos e tecnologia, dai veio a escolha da minha profissionalização, ainda hoje em dia frequento eventos no mercado de games e é claro jogo bastante!.”
+## 📚 O que estou aprendendo agora
+📊 Aprofundando meus estudos em **Análise e Ciência de Dados**, criando dashboards, explorando visualizações interativas e aplicando **Machine Learning** em projetos de estudo.  
 
+---
+
+## 🌟 Projetos em Destaque
+- [**IMERS-O-ALURA**](https://github.com/luigiuba/IMERS-O-ALURA) → Dashboard interativo desenvolvido durante a Imersão Alura, com foco em exploração e visualização de dados.  
+
+---
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luigiuba&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+</p>
+
+---
+
+## 📫 Contato
+- 📧 Email: **[luigibaezo@gmail.com](mailto:luigibaezo@gmail.com)**  
+- 💼 LinkedIn: [**Luigi Baezo**](https://www.linkedin.com/in/luigi-baezo-147260273)  
+
+---
+
+## 🎮 Um fato curioso
+> “Desde cedo apaixonado por jogos e tecnologia 🎮 — essa paixão me levou a escolher minha profissão. Até hoje participo de eventos do mercado de games e, claro, continuo jogando bastante!”
+
+---
