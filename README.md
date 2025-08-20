@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <!-- Badges (exemplos) -->
-  <img src="https://img.shields.io/badge/Discord-Bot-Python-3-blue?logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Github-Stats-visualização-dinâmica-orange" alt="GitHub Stats Badge"/>
-  <img src="https://img.shields.io/badge/Alura-Student-🚀-red?logo=Alura" alt="Alura Badge"/>
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Stats-orange?logo=github&logoColor=white" alt="GitHub Stats Badge"/>
+  <img src="https://img.shields.io/badge/Alura-Student-red" alt="Alura Badge"/>
 </p>
 
 ---
