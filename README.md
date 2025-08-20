@@ -1,10 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/luigiuba" width="150" style="border-radius: 50%" align="right" />
+<img src="https://static.wikia.nocookie.net/supermariobrosfilm/images/3/3e/Luigi_The_Super_Mario_Bros_Movie.png" width="150" style="border-radius: 50%" align="right" />
 
 ## 👋 Olá devs!
 
-Sou **Luigi Baezo**, um estudante apaixonado por tecnologia, ciência de dados e inovação. Atualmente estou me graduando em **Gestão de Tecnologia da Informação pelo Senac** e me especializando em **Análise de Dados, Machine Learning e Inteligência Artificial** pela Alura.
+Sou **Luigi Baezo**, estudante apaixonado por tecnologia, ciência de dados e inovação. Atualmente curso **Gestão de Tecnologia da Informação pelo Senac** e me especializo em **Análise de Dados, Machine Learning e Inteligência Artificial** pela Alura.
 
-Estou em busca de um **estágio na área de TI**, onde possa aplicar meus conhecimentos e aprender ainda mais sobre os desafios do dia a dia.
+Estou em busca de um **estágio na área de TI**, onde possa aplicar meus conhecimentos e crescer profissionalmente.
 
 ---
 
@@ -12,12 +12,12 @@ Estou em busca de um **estágio na área de TI**, onde possa aplicar meus conhec
 
 | Linguagem/Ferramenta | Logo |
 |----------------------|------|
-| Python               | ![Python](https://seeklogo.com/vector-logo/332789/python) |
-| Pandas               | ![Pandas](https://commons.wikimedia.org/wiki/File:Pandas_logo.svg) |
-| Matplotlib           | ![Matplotlib](https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg) |
-| Plotly               | ![Plotly](https://commons.wikimedia.org/wiki/File:Plotly-logo.png) |
-| SQL                  | ![SQL](https://seeklogo.com/vector-logo/505247/sql) |
-| JavaScript           | ![JavaScript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) |
+| Python               | [🐍 Python](https://seeklogo.com/vector-logo/332789/python) |
+| Pandas               | [🐼 Pandas](https://commons.wikimedia.org/wiki/File:Pandas_logo.svg) |
+| Matplotlib           | [📊 Matplotlib](https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg) |
+| Plotly               | [📈 Plotly](https://commons.wikimedia.org/wiki/File:Plotly-logo.png) |
+| SQL                  | [🗄️ SQL](https://seeklogo.com/vector-logo/505247/sql) |
+| JavaScript           | [✨ JavaScript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) |
 
 ---
 
