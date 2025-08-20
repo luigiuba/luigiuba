@@ -1,43 +1,47 @@
-<h1 align="center">IMERS-O-ALURA</h1>
+<h1 align="center">Olá, eu sou o Luigiuba! 👋</h1>
 
 <p align="center">
-  🚀 Projeto desenvolvido durante a Imersão de Dados da Alura
+  Bem-vindo ao meu cantinho no GitHub — explore meus projetos, estatísticas 📝 e curiosidades 😉
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?logo=plotly" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit" />
-  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" />
+  <!-- Badges (exemplos) -->
+  <img src="https://img.shields.io/badge/Discord-Bot-Python-3-blue?logo=python" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Github-Stats-visualização-dinâmica-orange" alt="GitHub Stats Badge"/>
+  <img src="https://img.shields.io/badge/Alura-Student-🚀-red?logo=Alura" alt="Alura Badge"/>
 </p>
 
 ---
 
-## 📌 Sobre
-Este repositório contém análises e experimentos feitos com Python, utilizando dados disponibilizados pela Alura durante a imersão.  
-O objetivo é praticar **manipulação de dados, visualizações e construção de aplicações simples**.
+###  Sobre mim
+-  Apaixonado por automação e bots com Python
+-  Desenvolvedor de pequenos projetos pessoais e iniciativas de aprendizado
+-  Sempre curioso, sempre aprendendo
+
+###  Ferramentas & Tecnologias
+- Linguagens: **Python**, **JavaScript**
+- Ferramentas: **Pandas**, **Streamlit**, **Flask**
+- Outras: automação, bot dev, análises simples
+
+###  Estatísticas do GitHub  
+<!-- GitHub Stats Card -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigiuba&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 
 ---
 
-## 🛠️ Tecnologias
-- Python  
-- Pandas  
-- Matplotlib / Seaborn  
-- Streamlit (para dashboard interativo)  
+###  Meus destaques recentes
+- Projeto **IMERS-O-ALURA** — dashboard interativo com dados da Alura
+- Colaboração em projetos open-source para automação no Discord
 
 ---
 
-## ▶️ Como executar
-```bash
-# Clonar o repositório
-git clone https://github.com/luigiuba/IMERS-O-ALURA.git
+###  Contato
+-  luigiuba@example.com
+-  Twitter: [@luigiuba](https://twitter.com/luigiuba)
+-  LinkedIn: [luigiuba](https://linkedin.com/in/luigiuba)
 
-# Acessar a pasta
-cd IMERS-O-ALURA
+---
 
-# Instalar dependências
-pip install -r requirements.txt
+####  Um fato curioso
+> “Adoro música enquanto programo — especialmente trilhas de games.”
 
-# Executar a aplicação
-python app.py
