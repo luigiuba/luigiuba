@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Luigiuba! 👋</h1>
+<h1 align="center">Fala Devs!, eu sou o Luigi! 👋</h1>
 
 <p align="center">
   Bem-vindo ao meu cantinho no GitHub — explore meus projetos, estatísticas 📝 e curiosidades 😉
@@ -14,8 +14,8 @@
 ---
 
 ###  Sobre mim
--  Apaixonado por automação e bots com Python
--  Desenvolvedor de pequenos projetos pessoais e iniciativas de aprendizado
+-  Entusiasta em IAS, Cloud e Ciencia de dados
+-  Desenvolvedor de pequenos projetos pessoais para aprendizados
 -  Sempre curioso, sempre aprendendo
 
 ###  Ferramentas & Tecnologias
@@ -31,17 +31,15 @@
 
 ###  Meus destaques recentes
 - Projeto **IMERS-O-ALURA** — dashboard interativo com dados da Alura
-- Colaboração em projetos open-source para automação no Discord
-
 ---
 
 ###  Contato
 -  luigiuba@example.com
--  Twitter: [@luigiuba](https://twitter.com/luigiuba)
--  LinkedIn: [luigiuba](https://linkedin.com/in/luigiuba)
+-  Email: [@luigiuba](luigibaezo@gmail.com)
+-  LinkedIn: [Luigi Baezo](https://linkedin.com/in/luigi-baezo-147260273)
 
 ---
 
 ####  Um fato curioso
-> “Adoro música enquanto programo — especialmente trilhas de games.”
+> “Desde cedo apaixonado por jogos e tecnologia, dai veio a escolha da minha profissionalização, ainda hoje em dia frequento eventos no mercado de games e é claro jogo bastante!.”
 
