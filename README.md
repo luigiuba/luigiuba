@@ -1,23 +1,17 @@
-<img src="https://static.wikia.nocookie.net/supermariobrosfilm/images/3/3e/Luigi_The_Super_Mario_Bros_Movie.png" width="150" style="border-radius: 50%" align="right" />
-
 ## 👋 Olá devs!
 
-Sou **Luigi Baezo**, estudante apaixonado por tecnologia, ciência de dados e inovação. Atualmente curso **Gestão de Tecnologia da Informação pelo Senac** e me especializo em **Análise de Dados, Machine Learning e Inteligência Artificial** pela Alura.
+Sou **Luigi Baezo**, um estudante apaixonado por tecnologia, ciência de dados e inovação. Atualmente estou me graduando em **Gestão de Tecnologia da Informação pelo Senac** e me especializando em **Análise de Dados, Machine Learning e Inteligência Artificial** pela Alura.
 
-Estou em busca de um **estágio na área de TI**, onde possa aplicar meus conhecimentos e crescer profissionalmente.
+Estou em busca de um **estágio na área de TI**, onde possa aplicar meus conhecimentos e aprender ainda mais sobre os desafios do dia a dia.
 
 ---
 
 ### 🚀 Tecnologias que estudo e aplico:
 
-| Linguagem/Ferramenta | Logo |
-|----------------------|------|
-| Python               | [🐍 Python](https://seeklogo.com/vector-logo/332789/python) |
-| Pandas               | [🐼 Pandas](https://commons.wikimedia.org/wiki/File:Pandas_logo.svg) |
-| Matplotlib           | [📊 Matplotlib](https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg) |
-| Plotly               | [📈 Plotly](https://commons.wikimedia.org/wiki/File:Plotly-logo.png) |
-| SQL                  | [🗄️ SQL](https://seeklogo.com/vector-logo/505247/sql) |
-| JavaScript           | [✨ JavaScript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) |
+- 🐍 Python (com foco em análise de dados)
+- 📊 Pandas, Matplotlib, Plotly
+- 💻 SQL e JavaScript
+- 🔄 Metodologias Ágeis
 
 ---
 
@@ -45,6 +39,14 @@ Confira meu repositório da Imersão Alura, onde desenvolvi uma análise de dado
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luigi-baezo-147260273)
 - 📧 luigibaezo@gmail.com
+
+---
+
+### ✨ Curiosidades
+
+- Amo transformar dados em histórias que fazem sentido.
+- Acredito que inovação começa com curiosidade.
+- Sempre buscando aprender algo novo todos os dias.
 
 ---
 
