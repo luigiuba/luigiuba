@@ -1,7 +1,7 @@
-<h1 align="center">Fala Devs! 👋 Eu sou o Luigi Baezo</h1>
+<h1 align="center">Salve! sou o Luigi </h1>
 
 <p align="center">
-  🚀 Estudante de tecnologia apaixonado por ciência de dados, inovação e o mundo dos games!
+  Estudante de tecnologia apaixonado por ciência de dados, inovação e todo tipo de arte
 </p>
 
 <p align="center">
