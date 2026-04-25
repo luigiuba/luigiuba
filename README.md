@@ -18,8 +18,6 @@
 Olá devs, sou **Luigi Baezo**, um estudante de tecnologia **entusiasta na área de ciência de dados e inovação**.  
 Atualmente estou me **graduando em Gestão de Tecnologia da Informação pelo Senac** e faço formações na **Alura**, com foco em **Análise de Dados, Ciência de Dados, Machine Learning e Inteligência Artificial**.  
 
-Estou em **busca de um estágio em TI**, para aprender conceitos do dia a dia, aplicar na prática meu aprendizado e evoluir cada vez mais na área.
-
 ---
 
 ## 🛠️ Tecnologias & Habilidades
